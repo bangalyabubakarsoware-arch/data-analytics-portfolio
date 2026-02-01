@@ -1,7 +1,4 @@
-# data-analytics-portfolio
-My data analysis projects using Excel, SQL, Python and Power BI
 # Data Analytics Portfolio
-
 Hello, my name is Bangaly Soware Abubakar.
 I am an aspiring Data Analyst with experience in Excel, SQL, and Power BI.
 
